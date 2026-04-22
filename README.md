@@ -1,10 +1,19 @@
-- 😄 Hello, I'm Duong Nhat Khoa.
-- 📫 How to reach me: nhatkhoa.working@gmail.com
+# Hi there! 👋 I'm Duong Nhat Khoa
 
-Hi there! 👋
+🚀 Platform Engineer passionate about building reliable developer platforms, improving system performance, and enabling teams to ship faster with confidence.
 
-I'm a Developer. My passion is improving performance, continuous learning, and helping teammates grow. I try my best to code, design gameplay mechanics and teamwork with talented people to bring creative ideas to life. I value kindness, honesty, and collaboration, and I am incredibly grateful to the mentors and friends who have supported me along the road.
+I focus on creating scalable internal platforms, streamlining CI/CD, improving observability, and automating infrastructure to make development workflows smoother and more efficient. I enjoy solving operational challenges, optimizing developer experience, and helping teammates grow through collaboration and knowledge sharing.
 
-As a person who strives for excellence, I am always eager to learn and face challenges. My goal is to become a developer while contributing to project that bring comfort to users.
+I value kindness, honesty, and continuous learning. I’m always eager to take on new challenges, deepen my technical expertise, and contribute to products and platforms that bring real value to both developers and end users.
 
-Let’s connect and create something amazing together!⚡
+### What I care about
+- Platform Engineering
+- Developer Experience (DevEx)
+- CI/CD & Automation
+- Cloud Infrastructure
+- Observability & Reliability
+- Performance Optimization
+
+📫 Reach me at: **nhatkhoa.working@gmail.com**
+
+Let’s connect and build something impactful together! ⚡
